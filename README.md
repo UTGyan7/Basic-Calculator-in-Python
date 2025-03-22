@@ -8,7 +8,7 @@ A command-line calculator application built with Python that performs basic arit
 - Input validation
 - Division by zero handling
 ## How to Use
-1. Run the application
+1. Run `Calculator.py`
 2. Enter the first number when prompted
 3. Enter the second number when prompted
 4. Choose an operation (+, -, *, /)
