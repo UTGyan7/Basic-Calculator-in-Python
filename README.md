@@ -15,7 +15,7 @@ A command-line calculator application built with Python that performs basic arit
 5. View the result
 6. type "yes" if you want to exit
 ## Example
-```python
+```
 Enter the value of a: 10
 Enter the value of b: 5
 Enter the operation you want to perform (+, -, *, /): +
